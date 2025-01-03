@@ -1,0 +1,1 @@
+This project is meant to represent a basic mastery of building a basic website with HTML. I've used an extensive amount of HTML before so I hope to create a clean project.
